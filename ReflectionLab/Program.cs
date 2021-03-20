@@ -16,6 +16,7 @@ namespace ReflectionLab
             //{
             //    string value = prop.GetAttributValue((CustomNameAttribute a) => a.Name);
             //}
+
         }
         public static void GetAttribute(Type t)
         {
